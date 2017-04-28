@@ -1,25 +1,20 @@
 ********************************************************************************
 *                             Initializing Cubiquity                           *
 ********************************************************************************
-[22:20:20, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
-[22:20:24, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
-[22:20:51, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
-[22:21:26, Info   ]: Creating empty voxel database as 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/434EBB34.vdb'
-[22:21:33, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
-[19:01:25, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
-[19:01:30, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
-[19:01:45, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
-[18:59:37, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
-[18:59:40, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
-[18:59:46, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
-[19:01:28, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
-[19:18:43, Info   ]: Creating empty voxel database as 'C:/Users/grego/AppData/Local/Temp/DefaultCompany/Ragdoll Prototyping/4F3C7F14.vdb'
-[19:18:47, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
-[19:18:55, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/Examples/VoxeliensColoredCubes.vdb'
-[19:18:59, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/Examples/VoxeliensColoredCubes.vdb'
-[19:19:13, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
-[19:19:13, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/Examples/VoxeliensColoredCubes.vdb'
-[19:19:15, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/Examples/VoxeliensTerrain.vdb'
-[19:19:25, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/Examples/VoxeliensTerrain.vdb'
-[19:20:23, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
-[19:20:23, Info   ]: Creating voxel database from 'D:/Unity Projects/Ragdoll Prototyping/Assets/StreamingAssets/Cubiquity/VoxelDatabases/Examples/VoxeliensTerrain.vdb'
+[10:46:10, Info   ]: Creating voxel database from 'C:/Users/Gregor/Desktop/TotalArenaDemo1/Assets/StreamingAssets/Cubiquity/VoxelDatabases/Examples/VoxeliensColoredCubes.vdb'
+[10:46:14, Info   ]: Creating voxel database from 'C:/Users/Gregor/Desktop/TotalArenaDemo1/Assets/StreamingAssets/Cubiquity/VoxelDatabases/Examples/VoxeliensColoredCubes.vdb'
+[10:47:22, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[10:47:23, Info   ]: Creating voxel database from 'C:/Users/Gregor/Desktop/TotalArenaDemo1/Assets/StreamingAssets/Cubiquity/VoxelDatabases/Examples/VoxeliensColoredCubes.vdb'
+[10:47:25, Info   ]: Creating voxel database from 'C:/Users/Gregor/Desktop/TotalArenaDemo1/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
+[10:47:29, Info   ]: Creating voxel database from 'C:/Users/Gregor/Desktop/TotalArenaDemo1/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
+[10:47:37, Info   ]: Creating voxel database from 'C:/Users/Gregor/Desktop/TotalArenaDemo1/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
+[10:47:49, Info   ]: Creating voxel database from 'C:/Users/Gregor/Desktop/TotalArenaDemo1/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
+[10:48:21, Info   ]: Creating voxel database from 'C:/Users/Gregor/Desktop/TotalArenaDemo1/Assets/StreamingAssets/Cubiquity/VoxelDatabases/4B0A682A.vdb'
+[10:52:54, Info   ]: Creating voxel database from 'C:/Users/Gregor/Desktop/TotalArenaDemo1/Assets/StreamingAssets/Cubiquity/VoxelDatabases/Examples/VoxeliensTerrain.vdb'
+[10:52:59, Info   ]: Creating voxel database from 'C:/Users/Gregor/Desktop/TotalArenaDemo1/Assets/StreamingAssets/Cubiquity/VoxelDatabases/Examples/VoxeliensTerrain.vdb'
+[10:53:11, Info   ]: Resizing compressed data buffer to 288486bytes. This should only happen once
+[10:53:11, Info   ]: Creating voxel database from 'C:/Users/Gregor/Desktop/TotalArenaDemo1/Assets/StreamingAssets/Cubiquity/VoxelDatabases/Examples/VoxeliensTerrain.vdb'
+********************************************************************************
+*                             Shutting down Cubiquity                          *
+********************************************************************************
+
